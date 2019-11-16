@@ -7,7 +7,7 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array)
- puppies = ["bulldog", "terrier",]
+ puppies = ["bulldog",]
  puppies << "pittdog"
  puts puppies.inspect
  
