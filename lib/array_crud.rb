@@ -6,7 +6,8 @@ def create_an_array
   puppies = ["bulldog", "terrier", "poodle", "pittbull"]
 end
 
-def add_element_to_end_of_array(array)
+def add_element_to_end_of_array(array,element)
+  array << elemnt
 
  end
 
